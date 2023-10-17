@@ -1,4 +1,5 @@
 # ejerciciovue002
+NOTA:  este codigo es una adaptacion de <a>https://github.com/bernal9913/bernal9913
 
 This template should help get you started developing with Vue 3 in Vite.
 
